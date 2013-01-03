@@ -1,6 +1,6 @@
 # twitter-sample-client #
 
-Shell application to allow in the review process for http://github.com/nrodrigues/twitter-sample
+Shell application to aid in the review process for http://github.com/nrodrigues/twitter-sample
 
 ## Building ##
 
